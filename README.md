@@ -274,14 +274,14 @@ THE DEVELOPERS ARENA
 
 <br>
 
-Python development internship focused on practical programming and application-development tasks.
+> Python development internship focused on practical programming and application-development tasks.
 
-Scope
+**Scope**
 
-Developed and practiced Python programming concepts through practical tasks
-Applied programming fundamentals to implementation problems
-Strengthened problem-solving and development skills
-Worked with Python-based development workflows
+* Developed and practiced Python programming concepts through practical tasks
+* Applied programming fundamentals to implementation problems
+* Strengthened problem-solving and development skills
+* Worked with Python-based development workflows
 
 `Python` `Programming` `Problem Solving`
 
