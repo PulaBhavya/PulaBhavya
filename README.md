@@ -118,7 +118,9 @@ My strongest interests sit at the intersection of **software engineering, applie
 
 **AI-Driven E-Commerce Fraud Detection System**
 
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-EF4444?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PulaBhavya/Fraudshieldx)
+<a href="https://github.com/PulaBhavya/Fraudshieldx">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -201,7 +203,9 @@ A team-based cybersecurity project focused on understanding ransomware behaviour
 
 **Python Programming & Problem Solving**
 
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-DC2626?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PulaBhavya/Python-Mini-Projects)
+<a href="https://github.com/PulaBhavya/Python-Mini-Projects">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -229,7 +233,9 @@ A collection of Python exercises and mini-projects created to strengthen program
 
 **Security-Focused Email Threat Analysis**
 
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-9F1239?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PulaBhavya/Phishing-Email-Analysis)
+<a href="https://github.com/PulaBhavya/Phishing-Email-Analysis">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-9F1239?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -252,25 +258,59 @@ A security-focused project involving the analysis of phishing emails and identif
 
 ## Experience
 
-### Python Development Intern
+<div align="center">
 
-**The Developers Arena**
+### `01` · PYTHON DEVELOPMENT INTERN
 
-* Worked on Python programming and practical development tasks
-* Applied Python fundamentals to implementation problems
-* Strengthened programming and problem-solving skills
+**THE DEVELOPERS ARENA**
+
+<img src="https://img.shields.io/badge/INTERNSHIP-PYTHON%20DEVELOPMENT-EF4444?style=for-the-badge&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/ROLE-INTERN-7F1D1D?style=for-the-badge&labelColor=09090B"/>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/11Y2QcjhSgxRYr-He2waq79mY45WfBeOd/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+> Python development internship focused on practical programming and application-development tasks.
+
+**Scope**
+
+* Developed and practiced Python programming concepts through practical tasks
+* Applied programming fundamentals to implementation problems
+* Strengthened problem-solving and development skills
+* Worked with Python-based development workflows
 
 `Python` `Programming` `Problem Solving`
 
 ---
 
-### Cybersecurity Intern
+<div align="center">
 
-**Redynox**
+### `02` · CYBERSECURITY INTERN
 
-* Worked on practical cybersecurity concepts
-* Gained exposure to security analysis and defensive practices
-* Applied security concepts to practical tasks
+**REDYNOX**
+
+<img src="https://img.shields.io/badge/INTERNSHIP-CYBERSECURITY-EF4444?style=for-the-badge&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/DOMAIN-SECURITY-9F1239?style=for-the-badge&labelColor=09090B"/>
+
+</div>
+
+<br>
+
+> Cybersecurity internship focused on practical security concepts and defensive security practices.
+
+**Scope**
+
+* Worked with practical cybersecurity concepts
+* Gained exposure to security analysis
+* Applied defensive security principles to practical tasks
+* Strengthened understanding of security-focused problem solving
 
 `Cybersecurity` `Security Analysis` `Python`
 
@@ -295,59 +335,93 @@ A security-focused project involving the analysis of phishing emails and identif
 
 <div align="center">
 
-**Verified Learning & Professional Development**
+### `VERIFIED CREDENTIALS`
+
+**Professional learning • Technology training • Industry programs**
+
+<br>
+
+<img src="https://img.shields.io/badge/03%20VERIFIED%20CREDENTIALS-EF4444?style=for-the-badge&labelColor=09090B"/>
 
 </div>
 
-<details>
-<summary><strong>01 · Google Cloud — Introduction to Security Principles</strong></summary>
-
 <br>
 
-Completed Google Cloud training focused on foundational security principles and concepts.
+<div align="center">
 
-**[View Certificate →](https://drive.google.com/file/d/1p8B66osyPVr8dJhkQCl97qvmNHJiD5pa/view?usp=drivesdk)**
+<table>
+<tr>
 
-</details>
+<td width="50%" align="center">
 
-<br>
+### ☁️ GOOGLE CLOUD
 
-<details>
-<summary><strong>02 · Deloitte Australia — Technology Job Simulation</strong></summary>
+**Introduction to Security Principles**
 
-<br>
+Foundational security principles and Google Cloud security concepts.
 
-Completed the Deloitte Australia Technology Job Simulation through Forage, involving practical technology and professional problem-solving scenarios.
+<br><br>
 
-**[View Certificate →](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69a694b45d00df1eaea14ece_1772535756812_completion_certificate.pdf)**
+<a href="https://drive.google.com/file/d/1p8B66osyPVr8dJhkQCl97qvmNHJiD5pa/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-EF4444?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
-</details>
+</td>
 
-<br>
+<td width="50%" align="center">
 
-<details>
-<summary><strong>03 · The Developers Arena — Python Internship</strong></summary>
+### ◈ DELOITTE
 
-<br>
+**Australia Technology Job Simulation**
 
-Completed a Python development internship involving practical programming and application-development tasks.
+Practical technology and professional problem-solving simulation through Forage.
 
-**[View Certificate →](https://drive.google.com/file/d/11Y2QcjhSgxRYr-He2waq79mY45WfBeOd/view?usp=drivesdk)**
+<br><br>
 
-</details>
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69a694b45d00df1eaea14ece_1772535756812_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
-<br>
+</td>
 
-<details>
-<summary><strong>04 · Future Interns — Internship</strong></summary>
+</tr>
 
-<br>
+<tr>
 
-Completed an internship focused on practical technology and development experience.
+<td width="50%" align="center">
 
-**[View Certificate →](https://drive.google.com/file/d/1O2Kj8BXfSYcmUTx-UHa64yWdxRoH2pFx/view?usp=drivesdk)**
+### ◉ FUTURE INTERNS
 
-</details>
+**Internship Certification**
+
+Practical internship experience focused on technology and development.
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1O2Kj8BXfSYcmUTx-UHa64yWdxRoH2pFx/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-9F1239?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### `PROFESSIONAL DEVELOPMENT`
+
+**Continuous Learning**
+
+Focused on building practical engineering skills through projects, internships and structured learning.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-EF4444?style=for-the-badge&labelColor=09090B"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
