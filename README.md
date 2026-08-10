@@ -264,27 +264,14 @@ A security-focused project involving the analysis of phishing emails and identif
 
 **THE DEVELOPERS ARENA**
 
-<img src="https://img.shields.io/badge/INTERNSHIP-PYTHON%20DEVELOPMENT-EF4444?style=for-the-badge&labelColor=09090B"/>
-<img src="https://img.shields.io/badge/ROLE-INTERN-7F1D1D?style=for-the-badge&labelColor=09090B"/>
-
-<br><br>
-
-<a href="https://drive.google.com/file/d/11Y2QcjhSgxRYr-He2waq79mY45WfBeOd/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
 > Python development internship focused on practical programming and application-development tasks.
 
 **Scope**
 
-* Developed and practiced Python programming concepts through practical tasks
-* Applied programming fundamentals to implementation problems
-* Strengthened problem-solving and development skills
-* Worked with Python-based development workflows
+- Developed and practiced Python programming concepts through practical tasks
+- Applied programming fundamentals to implementation problems
+- Strengthened problem-solving and development skills
+- Worked with Python-based development workflows
 
 `Python` `Programming` `Problem Solving`
 
