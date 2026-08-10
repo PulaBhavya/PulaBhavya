@@ -290,6 +290,25 @@ A security-focused project involving the analysis of phishing emails and identif
 
 ---
 
+### `02` · CYBERSECURITY INTERN
+
+**REDYNOX**
+
+> Cybersecurity internship focused on practical security concepts and defensive security practices.
+
+**Scope**
+
+- Worked with practical cybersecurity concepts
+- Gained exposure to security analysis
+- Applied defensive security principles to practical tasks
+- Strengthened understanding of security-focused problem solving
+
+**[View Internship Certificate](https://drive.google.com/file/d/1svCboHesoBvCPWq5QSF-OiuUa2jdCeBF/view?usp=drivesdk)**
+
+`Cybersecurity` `Security Analysis` `Python`
+
+---
+
 <div align="center">
 
 # ENGINEERING WITH PURPOSE
