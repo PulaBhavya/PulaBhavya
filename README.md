@@ -37,284 +37,6 @@
 
 <div align="center">
 
-## `ENGINEERING WITH PURPOSE`
-
-**Python • AI/ML • Backend • SQL • Security-Aware Development**
-
-</div>
-
----
-
-## About Me
-
-I'm a **Computer Science and Engineering graduate** focused on building practical software using **Python, AI/ML, Django and SQL**.
-
-I enjoy solving engineering problems end-to-end — from understanding requirements and preparing data to building applications, evaluating models and improving the final solution.
-
-My strongest interests sit at the intersection of **software engineering, applied AI and security-aware development**.
-
-### What I Bring
-
-* **Software Engineering** — Python, OOP, Git and problem solving
-* **AI / ML** — Pandas, NumPy, Scikit-learn and supervised learning
-* **Backend Development** — Django, Django ORM and database-backed applications
-* **Data & Databases** — SQL, MySQL and DBMS
-* **Web Development** — HTML, CSS and Django
-* **Security** — security-focused applications and defensive concepts
-
-### Open To
-
-`Software Engineering` · `Python Development` · `AI/ML` · `Backend Development` · `QA / Software Testing` · `Application Security`
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark"/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=django,mysql&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Django ORM` `OOP` `DBMS` `Machine Learning`
-
-</div>
-
----
-
-## AI / ML Expertise
-
-| Domain                  | Practical Experience                                      |
-| ----------------------- | --------------------------------------------------------- |
-| **Python for ML**       | Data processing, transformation and ML workflows          |
-| **Pandas / NumPy**      | Dataset cleaning, transformation and analysis             |
-| **Scikit-learn**        | Classification and model evaluation                       |
-| **Feature Engineering** | Numerical and categorical feature preparation             |
-| **Model Evaluation**    | Precision, Recall, F1-score, ROC-AUC and Confusion Matrix |
-| **Fraud Detection**     | Applied ML to 1.47M+ e-commerce transactions              |
-| **Applied AI**          | Integrated ML functionality into a Django application     |
-
----
-
-## Featured Projects
-
-<div align="center">
-
-### `01` — FRAUDSHIELDX
-
-**AI-Driven E-Commerce Fraud Detection System**
-
-<a href="https://github.com/PulaBhavya/Fraudshieldx">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<details>
-<summary><strong>▸ Explore Project</strong></summary>
-
-<br>
-
-FraudShieldX is an AI-powered Django application designed to identify potentially fraudulent e-commerce transactions using machine learning.
-
-| Metric           | Details                                         |
-| ---------------- | ----------------------------------------------- |
-| **Stack**        | Python · Django · Scikit-learn · Pandas · NumPy |
-| **Dataset**      | 1,472,952 transactions                          |
-| **Model**        | HistGradientBoosting                            |
-| **Accuracy**     | ~96%                                            |
-| **ROC-AUC**      | ~0.815                                          |
-| **Domain**       | E-Commerce Fraud Detection                      |
-| **Architecture** | ML + Django + Database                          |
-
-### Engineering Work
-
-* Processed **1.47M+ transaction records**
-* Cleaned and prepared transaction data
-* Analysed fraudulent and legitimate transactions
-* Worked with numerical and categorical features
-* Built a machine-learning classification pipeline
-* Evaluated precision, recall, F1-score and ROC-AUC
-* Integrated the ML workflow into Django
-* Built database-backed application functionality
-
-### Core Technologies
-
-`Python` `Django` `Scikit-learn` `Pandas` `NumPy` `SQL` `Django ORM`
-
-</details>
-
----
-
-<div align="center">
-
-### `02` — RANSOMWARE DETECTION
-
-**Detection of Ransomware Attacks**
-
-</div>
-
-<details>
-<summary><strong>▸ Explore Project</strong></summary>
-
-<br>
-
-A team-based cybersecurity project focused on understanding ransomware behaviour and identifying indicators associated with ransomware attacks.
-
-| Metric     | Details                |
-| ---------- | ---------------------- |
-| **Stack**  | Python · Cybersecurity |
-| **Role**   | Team Lead              |
-| **Focus**  | Ransomware Detection   |
-| **Domain** | Cybersecurity          |
-
-### Engineering Work
-
-* Led the project team
-* Studied ransomware attack behaviour
-* Analysed indicators of malicious activity
-* Applied cybersecurity concepts to attack detection
-
-### Core Technologies
-
-`Python` `Cybersecurity` `Security Analysis`
-
-</details>
-
----
-
-<div align="center">
-
-### `03` — PYTHON MINI PROJECTS
-
-**Python Programming & Problem Solving**
-
-<a href="https://github.com/PulaBhavya/Python-Mini-Projects">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<details>
-<summary><strong>▸ Explore Project</strong></summary>
-
-<br>
-
-A collection of Python exercises and mini-projects created to strengthen programming fundamentals and problem-solving ability.
-
-| Area         | Details                             |
-| ------------ | ----------------------------------- |
-| **Language** | Python                              |
-| **Focus**    | Programming Fundamentals            |
-| **Topics**   | Lists · Loops · Strings · Functions |
-| **Purpose**  | Python practice and problem solving |
-
-</details>
-
----
-
-<div align="center">
-
-### `04` — PHISHING EMAIL ANALYSIS
-
-**Security-Focused Email Threat Analysis**
-
-<a href="https://github.com/PulaBhavya/Phishing-Email-Analysis">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-9F1239?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<details>
-<summary><strong>▸ Explore Project</strong></summary>
-
-<br>
-
-A security-focused project involving the analysis of phishing emails and identification of suspicious characteristics.
-
-| Area         | Details                |
-| ------------ | ---------------------- |
-| **Stack**    | Python · Cybersecurity |
-| **Focus**    | Phishing Analysis      |
-| **Security** | Email Threat Analysis  |
-
-</details>
-
----
-
-## Experience
-
-<div align="center">
-
-### `01` · PYTHON DEVELOPMENT INTERN
-
-**THE DEVELOPERS ARENA**
-
-<img src="https://img.shields.io/badge/INTERNSHIP-PYTHON%20DEVELOPMENT-EF4444?style=for-the-badge&labelColor=09090B"/> <img src="https://img.shields.io/badge/ROLE-INTERN-7F1D1D?style=for-the-badge&labelColor=09090B"/>
-
-<br><br>
-
-<a href="https://drive.google.com/file/d/11Y2QcjhSgxRYr-He2waq79mY45WfBeOd/view?usp=drivesdk"> <img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/> </a>
-
-</div>
-
-<br>
-
-> Python development internship focused on practical programming and application-development tasks.
-
-**Scope**
-
-* Developed and practiced Python programming concepts through practical tasks
-* Applied programming fundamentals to implementation problems
-* Strengthened problem-solving and development skills
-* Worked with Python-based development workflows
-
-`Python` `Programming` `Problem Solving`
-
-<div align="center">
-
-### `02` · CYBERSECURITY INTERN
-
-**REDYNOX**
-
-<img src="https://img.shields.io/badge/INTERNSHIP-CYBERSECURITY-EF4444?style=for-the-badge&labelColor=09090B"/>
-<img src="https://img.shields.io/badge/DOMAIN-SECURITY-9F1239?style=for-the-badge&labelColor=09090B"/>
-
-<br><br>
-
-<a href="https://drive.google.com/file/d/1svCboHesoBvCPWq5QSF-OiuUa2jdCeBF/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-> Cybersecurity internship focused on practical security concepts and defensive security practices.
-
-**Scope**
-
-* Worked with practical cybersecurity concepts
-* Gained exposure to security analysis
-* Applied defensive security principles to practical tasks
-* Strengthened understanding of security-focused problem solving
-
-`Cybersecurity` `Security Analysis` `Python`
-
 # ENGINEERING WITH PURPOSE
 
 **Python • AI/ML • Backend • SQL • Security-Aware Development**
@@ -367,7 +89,7 @@ My strongest interests sit at the intersection of **software engineering, applie
 ## AI / ML Expertise
 
 | Domain | Practical Experience |
-| ----------------------- | --------------------------------------------------------- |
+|---|---|
 | **Python for ML** | Data processing, transformation and ML workflows |
 | **Pandas / NumPy** | Dataset cleaning, transformation and analysis |
 | **Scikit-learn** | Classification and model evaluation |
@@ -387,7 +109,7 @@ My strongest interests sit at the intersection of **software engineering, applie
 FraudShieldX is an AI-powered Django application designed to identify potentially fraudulent e-commerce transactions using machine learning.
 
 | Metric | Details |
-| ---------------- | ----------------------------------------------- |
+|---|---|
 | **Stack** | Python · Django · Scikit-learn · Pandas · NumPy |
 | **Dataset** | 1,472,952 transactions |
 | **Model** | HistGradientBoosting |
@@ -420,7 +142,7 @@ FraudShieldX is an AI-powered Django application designed to identify potentiall
 A team-based cybersecurity project focused on understanding ransomware behaviour and identifying indicators associated with ransomware attacks.
 
 | Metric | Details |
-| ---------- | ---------------------- |
+|---|---|
 | **Stack** | Python · Cybersecurity |
 | **Role** | Team Lead |
 | **Focus** | Ransomware Detection |
@@ -446,7 +168,7 @@ A team-based cybersecurity project focused on understanding ransomware behaviour
 A collection of Python exercises and mini-projects created to strengthen programming fundamentals and problem-solving ability.
 
 | Area | Details |
-| ------------ | ----------------------------------- |
+|---|---|
 | **Language** | Python |
 | **Focus** | Programming Fundamentals |
 | **Topics** | Lists · Loops · Strings · Functions |
@@ -461,7 +183,7 @@ A collection of Python exercises and mini-projects created to strengthen program
 A security-focused project involving the analysis of phishing emails and identification of suspicious characteristics.
 
 | Area | Details |
-| ------------ | ---------------------- |
+|---|---|
 | **Stack** | Python · Cybersecurity |
 | **Focus** | Phishing Analysis |
 | **Security** | Email Threat Analysis |
@@ -487,6 +209,8 @@ A security-focused project involving the analysis of phishing emails and identif
 - Strengthened problem-solving and development skills
 - Worked with Python-based development workflows
 
+**Technologies**
+
 `Python` `Programming` `Problem Solving`
 
 ---
@@ -504,96 +228,11 @@ A security-focused project involving the analysis of phishing emails and identif
 - Applied defensive security principles to practical tasks
 - Strengthened understanding of security-focused problem solving
 
+[**View Internship Certificate**](https://drive.google.com/file/d/1svCboHesoBvCPWq5QSF-OiuUa2jdCeBF/view?usp=drivesdk)
+
+**Technologies**
+
 `Cybersecurity` `Security Analysis` `Python`
-
----
-
-## Achievements
-
-| | Recognition | Details |
-| :-: | ---------------------------- | ------------------------------------------------- |
-| ◈ | **Academic Performance** | B.Tech CSE — **8.54 / 10 CGPA** |
-| ◈ | **Large-Scale ML** | FraudShieldX using **1.47M+ transaction records** |
-| ◈ | **Project Leadership** | Team Lead — Ransomware Detection Project |
-| ◈ | **Professional Development** | Deloitte Australia Technology Job Simulation |
-
----
-
-## Certifications
-
-### `VERIFIED CREDENTIALS`
-
-**Professional learning • Technology training • Industry programs**
-
-### ☁️ GOOGLE CLOUD
-
-**Introduction to Security Principles**
-
-Foundational security principles and Google Cloud security concepts.
-
-### ◈ DELOITTE
-
-**Australia Technology Job Simulation**
-
-Practical technology and professional problem-solving simulation through Forage.
-
-### ◉ FUTURE INTERNS
-
-**Internship Certification**
-
-Practical internship experience focused on technology and development.
-
----
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## Contribution Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PulaBhavya&theme=transparent&hide_border=true)
-
----
-
-## Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/PulaBhavya/PulaBhavya/output/github-contribution-grid-snake.svg)
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Advanced Python
-  - SQL & Database Engineering
-  - Software Testing & Quality Engineering
-  - Application Security
-
-Building:
-  - AI/ML-powered applications
-  - Django backend systems
-  - Security-focused software projects
-  - Practical Python projects
-
-Exploring:
-  - Applied Artificial Intelligence
-  - Machine Learning
-  - Secure Software Engineering
-  - Backend Architecture
-
-Open To:
-  - Entry-Level Software Engineering
-  - Python Development
-  - AI/ML Engineering
-  - Backend Development
-  - Software Quality Engineering
-  - Application Security
 
 ---
 
@@ -601,12 +240,12 @@ Open To:
 
 <div align="center">
 
-|     | Recognition                  | Details                                           |
-| :-: | ---------------------------- | ------------------------------------------------- |
-|  ◈  | **Academic Performance**     | B.Tech CSE — **8.54 / 10 CGPA**                   |
-|  ◈  | **Large-Scale ML**           | FraudShieldX using **1.47M+ transaction records** |
-|  ◈  | **Project Leadership**       | Team Lead — Ransomware Detection Project          |
-|  ◈  | **Professional Development** | Deloitte Australia Technology Job Simulation      |
+| | Recognition | Details |
+|:-:|---|---|
+| ◈ | **Academic Performance** | B.Tech CSE — **8.54 / 10 CGPA** |
+| ◈ | **Large-Scale ML** | FraudShieldX using **1.47M+ transaction records** |
+| ◈ | **Project Leadership** | Team Lead — Ransomware Detection Project |
+| ◈ | **Professional Development** | Deloitte Australia Technology Job Simulation |
 
 </div>
 
@@ -622,7 +261,7 @@ Open To:
 
 <br>
 
-<img src="https://img.shields.io/badge/03%20VERIFIED%20CREDENTIALS-EF4444?style=for-the-badge&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/VERIFIED%20CREDENTIALS-EF4444?style=for-the-badge&labelColor=09090B"/>
 
 </div>
 
@@ -726,7 +365,7 @@ Focused on building practical engineering skills through projects, internships a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulaBhavya&bg_color=00000000&color=EF4444&line=DC2626&point=FB7185&area=true&hide_border=true&custom_title=Pula%20Bhavya%20%E2%80%94%20Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulaBhavya&bg_color=00000000&color=EF4444&line=DC2626&point=FB7185&area=true&hide_border=true&custom_title=Pula%20Bhavya%20—%20Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -763,7 +402,6 @@ Exploring:
   - Machine Learning
   - Secure Software Engineering
   - Backend Architecture
-  - DevSecOps
 
 Open To:
   - Entry-Level Software Engineering
@@ -772,34 +410,3 @@ Open To:
   - Backend Development
   - Software Quality Engineering
   - Application Security
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/PulaBhavya">
-<img src="https://img.shields.io/badge/GITHUB-PULA%20BHAVYA-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pulabhavya21/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-EF4444?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD • LEARN • ENGINEER • SHIP`
-
-**Build with purpose. Engineer with discipline. Ship what matters.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,40:991B1B,75:450A0A,100:050505&height=120&section=footer" width="100%"/>
-
-</div>
