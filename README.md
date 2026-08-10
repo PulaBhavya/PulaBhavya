@@ -299,6 +299,12 @@ A security-focused project involving the analysis of phishing emails and identif
 <img src="https://img.shields.io/badge/INTERNSHIP-CYBERSECURITY-EF4444?style=for-the-badge&labelColor=09090B"/>
 <img src="https://img.shields.io/badge/DOMAIN-SECURITY-9F1239?style=for-the-badge&labelColor=09090B"/>
 
+<br><br>
+
+<a href="https://drive.google.com/file/d/1svCboHesoBvCPWq5QSF-OiuUa2jdCeBF/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
