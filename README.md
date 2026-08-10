@@ -260,7 +260,7 @@ A security-focused project involving the analysis of phishing emails and identif
 
 <div align="center">
 
-### `01` ·PYTHON DEVELOPMENT INTERN
+### `01` · PYTHON DEVELOPMENT INTERN
 
 **THE DEVELOPERS ARENA**
 
