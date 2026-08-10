@@ -461,9 +461,10 @@ Focused on building practical engineering skills through projects, internships a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PulaBhavya/PulaBhavya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/PulaBhavya/PulaBhavya/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
+
 ---
 
 ## Current Focus
