@@ -283,7 +283,7 @@ Applied programming fundamentals to implementation problems
 Strengthened problem-solving and development skills
 Worked with Python-based development workflows
 
-Python Programming Problem Solving
+`Python` `Programming` `Problem Solving`
 
 <div align="center">
 
