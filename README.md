@@ -1,30 +1,31 @@
 <div align="center">
 
-# <span style="color:#A855F7;">PULA BHAVYA</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:7F1D1D,100:DC2626&height=190&section=header&text=PULA%20BHAVYA&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Software+Engineer;Python+%7C+AI%2FML+%7C+Django+%7C+SQL;Building+Practical+Software+Solutions;Security-Aware+Application+Development" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=780&lines=Software+Engineer;Python+%7C+AI%2FML+%7C+Django+%7C+SQL;Building+Practical+Software+Solutions;Security-Aware+Application+Development" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cyber%20Security-A855F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/CGPA-8.54%2F10-9333EA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Graduation-2026-7E22CE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hyderabad%2C%20India-6B21A8?style=flat-square"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cyber%20Security-DC2626?style=flat-square&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/CGPA-8.54%2F10-B91C1C?style=flat-square&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/Graduation-2026-7F1D1D?style=flat-square&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/Hyderabad%2C%20India-450A0A?style=flat-square&labelColor=09090B"/>
 
 <br><br>
 
 <a href="https://github.com/PulaBhavya">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/pulabhavya21/">
-<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PulaBhavya&label=PROFILE%20VIEWS&color=A855F7&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/PulaBhavya?label=FOLLOWERS&style=flat-square&color=9333EA"/>
-<img src="https://img.shields.io/github/stars/PulaBhavya?affiliations=OWNER&label=STARS&style=flat-square&color=7E22CE"/>
+<img src="https://komarev.com/ghpvc/?username=PulaBhavya&label=PROFILE%20VIEWS&color=DC2626&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/PulaBhavya?label=FOLLOWERS&style=flat-square&color=B91C1C"/>
+<img src="https://img.shields.io/github/stars/PulaBhavya?affiliations=OWNER&label=STARS&style=flat-square&color=7F1D1D"/>
 
 </div>
 
@@ -34,7 +35,7 @@
 
 I'm a **Computer Science and Engineering graduate** focused on building practical software with **Python, AI/ML, Django and SQL**.
 
-My projects combine software engineering, machine learning and security-oriented problem solving. I enjoy working through the complete development process — understanding the problem, working with data, building the application and evaluating the result.
+My work combines software engineering, machine learning and security-oriented problem solving. I enjoy turning real-world problems into working applications — from data processing and model development to backend implementation.
 
 ### Engineering Interests
 
@@ -65,7 +66,7 @@ My projects combine software engineering, machine learning and security-oriented
 <img src="https://skillicons.dev/icons?i=django,mysql&theme=dark"/>
 </p>
 
-### Tools
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
@@ -73,11 +74,11 @@ My projects combine software engineering, machine learning and security-oriented
 
 **Libraries:** `Pandas` `NumPy` `Scikit-learn` `Django ORM`
 
-**Core:** `OOP` `DBMS` `SQL` `Data Structures` `Machine Learning`
+**Core:** `Python` `SQL` `OOP` `DBMS` `Data Structures` `Machine Learning`
 
 ---
 
-## AI / ML
+## AI / ML Expertise
 
 | Area                    | Experience                                          |
 | ----------------------- | --------------------------------------------------- |
@@ -110,7 +111,7 @@ An AI-powered Django application designed to identify potentially fraudulent e-c
 | **Focus**      | E-commerce fraud detection                                 |
 | **Repository** | [View Project](https://github.com/PulaBhavya/Fraudshieldx) |
 
-### What I Built
+### Engineering Work
 
 * Processed **1.47M+ transaction records**
 * Cleaned and prepared transaction data
@@ -138,7 +139,7 @@ A machine-learning based security project focused on identifying potentially mal
 | **Security**   | Web threat detection                          |
 | **Repository** | [View Profile](https://github.com/PulaBhavya) |
 
-### What I Built
+### Engineering Work
 
 * Applied machine learning to a web-security problem
 * Worked with features relevant to webpage classification
@@ -162,7 +163,7 @@ A team-based cybersecurity project focused on ransomware behaviour and attack de
 | **Security**   | Malware behaviour analysis                    |
 | **Repository** | [View Profile](https://github.com/PulaBhavya) |
 
-### What I Built
+### Engineering Work
 
 * Led the project team
 * Studied ransomware attack behaviour
@@ -259,13 +260,13 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Security%20Principles-A855F7?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-Security%20Principles-DC2626?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20IIT%20Kharagpur-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20IIT%20Kharagpur-B91C1C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Red%20Hat-Cybersecurity-7E22CE?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red%20Hat-Cybersecurity-7F1D1D?style=for-the-badge&logo=redhat&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Forage-Deloitte%20Technology-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Forage-Deloitte%20Technology-DC2626?style=for-the-badge"/>
 
 </div>
 
@@ -275,13 +276,13 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=EF4444&icon_color=FB7185&text_color=E5E7EB"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=A855F7&text_color=E5E7EB"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=EF4444&text_color=E5E7EB"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=PulaBhavya&hide_border=true&background=00000000&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E7EB&dates=9CA3AF" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=PulaBhavya&hide_border=true&background=00000000&ring=DC2626&fire=FB7185&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=9CA3AF" width="65%"/>
 
 </div>
 
@@ -291,7 +292,7 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PulaBhavya&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PulaBhavya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -301,7 +302,7 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulaBhavya&bg_color=00000000&color=A855F7&line=9333EA&point=C084FC&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulaBhavya&bg_color=00000000&color=EF4444&line=DC2626&point=FB7185&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -356,11 +357,11 @@ Open To:
 <div align="center">
 
 <a href="https://github.com/PulaBhavya">
-<img src="https://img.shields.io/badge/GitHub-PulaBhavya-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-PulaBhavya-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pulabhavya21/">
-<img src="https://img.shields.io/badge/LinkedIn-Pula%20Bhavya-9333EA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pula%20Bhavya-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -370,5 +371,9 @@ Open To:
 <div align="center">
 
 **Build with purpose. Engineer with discipline. Ship what matters.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:09090B&height=110&section=footer" width="100%"/>
 
 </div>
