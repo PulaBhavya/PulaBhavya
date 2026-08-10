@@ -260,9 +260,9 @@ A security-focused project involving the analysis of phishing emails and identif
 
 <div align="center">
 
-01 · PYTHON DEVELOPMENT INTERN
+### `01` ·PYTHON DEVELOPMENT INTERN
 
-THE DEVELOPERS ARENA
+**THE DEVELOPERS ARENA**
 
 <img src="https://img.shields.io/badge/INTERNSHIP-PYTHON%20DEVELOPMENT-EF4444?style=for-the-badge&labelColor=09090B"/> <img src="https://img.shields.io/badge/ROLE-INTERN-7F1D1D?style=for-the-badge&labelColor=09090B"/>
 
