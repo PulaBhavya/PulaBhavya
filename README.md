@@ -260,43 +260,60 @@ A security-focused project involving the analysis of phishing emails and identif
 
 <div align="center">
 
-### `01` · PYTHON DEVELOPMENT INTERN
+01 · PYTHON DEVELOPMENT INTERN
 
-**THE DEVELOPERS ARENA**
+THE DEVELOPERS ARENA
 
-> Python development internship focused on practical programming and application-development tasks.
+<img src="https://img.shields.io/badge/INTERNSHIP-PYTHON%20DEVELOPMENT-EF4444?style=for-the-badge&labelColor=09090B"/> <img src="https://img.shields.io/badge/ROLE-INTERN-7F1D1D?style=for-the-badge&labelColor=09090B"/>
 
-**Scope**
+<br><br>
 
-- Developed and practiced Python programming concepts through practical tasks
-- Applied programming fundamentals to implementation problems
-- Strengthened problem-solving and development skills
-- Worked with Python-based development workflows
+<a href="https://drive.google.com/file/d/11Y2QcjhSgxRYr-He2waq79mY45WfBeOd/view?usp=drivesdk"> <img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/> </a>
 
-`Python` `Programming` `Problem Solving`
+</div>
 
----
+<br>
+
+Python development internship focused on practical programming and application-development tasks.
+
+Scope
+
+Developed and practiced Python programming concepts through practical tasks
+Applied programming fundamentals to implementation problems
+Strengthened problem-solving and development skills
+Worked with Python-based development workflows
+
+Python Programming Problem Solving
+
+<div align="center">
 
 ### `02` · CYBERSECURITY INTERN
 
 **REDYNOX**
 
+<img src="https://img.shields.io/badge/INTERNSHIP-CYBERSECURITY-EF4444?style=for-the-badge&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/DOMAIN-SECURITY-9F1239?style=for-the-badge&labelColor=09090B"/>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1svCboHesoBvCPWq5QSF-OiuUa2jdCeBF/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
 > Cybersecurity internship focused on practical security concepts and defensive security practices.
 
 **Scope**
 
-- Worked with practical cybersecurity concepts
-- Gained exposure to security analysis
-- Applied defensive security principles to practical tasks
-- Strengthened understanding of security-focused problem solving
-
-**[View Internship Certificate](https://drive.google.com/file/d/1svCboHesoBvCPWq5QSF-OiuUa2jdCeBF/view?usp=drivesdk)**
+* Worked with practical cybersecurity concepts
+* Gained exposure to security analysis
+* Applied defensive security principles to practical tasks
+* Strengthened understanding of security-focused problem solving
 
 `Cybersecurity` `Security Analysis` `Python`
-
----
-
-<div align="center">
 
 # ENGINEERING WITH PURPOSE
 
