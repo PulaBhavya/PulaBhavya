@@ -1,50 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:7F1D1D,100:DC2626&height=190&section=header&text=PULA%20BHAVYA&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:450A0A,75:991B1B,100:EF4444&height=210&section=header&text=PULA%20BHAVYA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=780&lines=Software+Engineer;Python+%7C+AI%2FML+%7C+Django+%7C+SQL;Building+Practical+Software+Solutions;Security-Aware+Application+Development" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEER;PYTHON+%7C+AI%2FML+%7C+DJANGO+%7C+SQL;BUILDING+PRACTICAL+SOFTWARE+SYSTEMS;AI-DRIVEN+%7C+SECURITY-AWARE+%7C+PRODUCT-FOCUSED" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cyber%20Security-DC2626?style=flat-square&labelColor=09090B"/>
-<img src="https://img.shields.io/badge/CGPA-8.54%2F10-B91C1C?style=flat-square&labelColor=09090B"/>
-<img src="https://img.shields.io/badge/Graduation-2026-7F1D1D?style=flat-square&labelColor=09090B"/>
-<img src="https://img.shields.io/badge/Hyderabad%2C%20India-450A0A?style=flat-square&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/B.TECH-CSE%20%7C%20CYBER%20SECURITY-EF4444?style=for-the-badge&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/CGPA-8.54%2F10-F43F5E?style=for-the-badge&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/GRADUATING-2026-DC2626?style=for-the-badge&labelColor=09090B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HYDERABAD%2C%20INDIA-7F1D1D?style=for-the-badge&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-9F1239?style=for-the-badge&labelColor=09090B"/>
 
 <br><br>
 
 <a href="https://github.com/PulaBhavya">
-<img src="https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-PULA%20BHAVYA-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pulabhavya21/">
-<img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-EF4444?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PulaBhavya&label=PROFILE%20VIEWS&color=DC2626&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/PulaBhavya?label=FOLLOWERS&style=flat-square&color=B91C1C"/>
-<img src="https://img.shields.io/github/stars/PulaBhavya?affiliations=OWNER&label=STARS&style=flat-square&color=7F1D1D"/>
+<img src="https://komarev.com/ghpvc/?username=PulaBhavya&label=PROFILE+VIEWS&color=EF4444&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/PulaBhavya?label=FOLLOWERS&style=for-the-badge&color=DC2626"/>
+<img src="https://img.shields.io/github/stars/PulaBhavya?affiliations=OWNER&label=STARS&style=for-the-badge&color=9F1239"/>
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-I'm a **Computer Science and Engineering graduate** focused on building practical software with **Python, AI/ML, Django and SQL**.
+## `ENGINEERING WITH PURPOSE`
 
-My work combines software engineering, machine learning and security-oriented problem solving. I enjoy turning real-world problems into working applications — from data processing and model development to backend implementation.
+**Python • AI/ML • Backend • SQL • Security-Aware Development**
 
-### Engineering Interests
+</div>
 
-* **Software Engineering** — Python, OOP, DSA fundamentals and Git
-* **AI / ML** — Pandas, NumPy, Scikit-learn and model evaluation
-* **Backend Development** — Django, Django ORM and database-driven applications
-* **Databases** — SQL, MySQL and DBMS
+---
+
+## About Me
+
+I'm a **Computer Science and Engineering graduate** focused on building practical software using **Python, AI/ML, Django and SQL**.
+
+I enjoy solving engineering problems end-to-end — from understanding requirements and preparing data to building applications, evaluating models and improving the final solution.
+
+My strongest interests sit at the intersection of **software engineering, applied AI and security-aware development**.
+
+### What I Bring
+
+* **Software Engineering** — Python, OOP, Git and problem solving
+* **AI / ML** — Pandas, NumPy, Scikit-learn and supervised learning
+* **Backend Development** — Django, Django ORM and database-backed applications
+* **Data & Databases** — SQL, MySQL and DBMS
 * **Web Development** — HTML, CSS and Django
-* **Security** — secure development principles and application security
+* **Security** — security-focused applications and defensive concepts
 
 ### Open To
 
@@ -54,114 +70,115 @@ My work combines software engineering, machine learning and security-oriented pr
 
 ## Tech Stack
 
+<div align="center">
+
 ### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark"/>
-</p>
 
 ### Backend & Databases
 
-<p>
 <img src="https://skillicons.dev/icons?i=django,mysql&theme=dark"/>
-</p>
 
-### Development Tools
+### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-</p>
 
-**Libraries:** `Pandas` `NumPy` `Scikit-learn` `Django ORM`
+</div>
 
-**Core:** `Python` `SQL` `OOP` `DBMS` `Data Structures` `Machine Learning`
+<br>
+
+<div align="center">
+
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Django ORM` `OOP` `DBMS` `Machine Learning`
+
+</div>
 
 ---
 
 ## AI / ML Expertise
 
-| Area                    | Experience                                          |
-| ----------------------- | --------------------------------------------------- |
-| **Python for ML**       | Data processing, transformation and ML workflows    |
-| **Pandas / NumPy**      | Large dataset cleaning and analysis                 |
-| **Scikit-learn**        | Classification and model evaluation                 |
-| **Feature Engineering** | Numerical and categorical feature preparation       |
-| **Model Evaluation**    | Precision, Recall, F1, ROC-AUC and Confusion Matrix |
-| **Fraud Detection**     | Applied ML to 1.47M+ e-commerce transactions        |
-| **Applied AI**          | Integrated ML functionality into Django             |
+| Domain                  | Practical Experience                                      |
+| ----------------------- | --------------------------------------------------------- |
+| **Python for ML**       | Data processing, transformation and ML workflows          |
+| **Pandas / NumPy**      | Dataset cleaning, transformation and analysis             |
+| **Scikit-learn**        | Classification and model evaluation                       |
+| **Feature Engineering** | Numerical and categorical feature preparation             |
+| **Model Evaluation**    | Precision, Recall, F1-score, ROC-AUC and Confusion Matrix |
+| **Fraud Detection**     | Applied ML to 1.47M+ e-commerce transactions              |
+| **Applied AI**          | Integrated ML functionality into a Django application     |
 
 ---
 
 ## Featured Projects
 
+<div align="center">
+
+### `01` — FRAUDSHIELDX
+
+**AI-Driven E-Commerce Fraud Detection System**
+
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-EF4444?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PulaBhavya/Fraudshieldx)
+
+</div>
+
 <details>
-<summary><strong>01 · FraudShieldX — AI-Driven E-Commerce Fraud Detection</strong></summary>
+<summary><strong>▸ Explore Project</strong></summary>
 
 <br>
 
-An AI-powered Django application designed to identify potentially fraudulent e-commerce transactions using machine learning.
+FraudShieldX is an AI-powered Django application designed to identify potentially fraudulent e-commerce transactions using machine learning.
 
-| Metric         | Details                                                    |
-| -------------- | ---------------------------------------------------------- |
-| **Stack**      | Python · Django · Scikit-learn · Pandas · NumPy            |
-| **Dataset**    | 1,472,952 transactions                                     |
-| **Model**      | HistGradientBoosting                                       |
-| **Accuracy**   | ~96%                                                       |
-| **ROC-AUC**    | ~0.815                                                     |
-| **Focus**      | E-commerce fraud detection                                 |
-| **Repository** | [View Project](https://github.com/PulaBhavya/Fraudshieldx) |
+| Metric           | Details                                         |
+| ---------------- | ----------------------------------------------- |
+| **Stack**        | Python · Django · Scikit-learn · Pandas · NumPy |
+| **Dataset**      | 1,472,952 transactions                          |
+| **Model**        | HistGradientBoosting                            |
+| **Accuracy**     | ~96%                                            |
+| **ROC-AUC**      | ~0.815                                          |
+| **Domain**       | E-Commerce Fraud Detection                      |
+| **Architecture** | ML + Django + Database                          |
 
 ### Engineering Work
 
 * Processed **1.47M+ transaction records**
 * Cleaned and prepared transaction data
-* Analysed fraudulent vs legitimate transactions
+* Analysed fraudulent and legitimate transactions
 * Worked with numerical and categorical features
-* Built a classification pipeline
+* Built a machine-learning classification pipeline
 * Evaluated precision, recall, F1-score and ROC-AUC
 * Integrated the ML workflow into Django
-* Built a database-backed web application
+* Built database-backed application functionality
+
+### Core Technologies
+
+`Python` `Django` `Scikit-learn` `Pandas` `NumPy` `SQL` `Django ORM`
 
 </details>
 
+---
+
+<div align="center">
+
+### `02` — RANSOMWARE DETECTION
+
+**Detection of Ransomware Attacks**
+
+</div>
+
 <details>
-<summary><strong>02 · Detecting Malicious Web-Pages</strong></summary>
+<summary><strong>▸ Explore Project</strong></summary>
 
 <br>
 
-A machine-learning based security project focused on identifying potentially malicious web pages.
+A team-based cybersecurity project focused on understanding ransomware behaviour and identifying indicators associated with ransomware attacks.
 
-| Metric         | Details                                       |
-| -------------- | --------------------------------------------- |
-| **Stack**      | Python · Machine Learning · Browser Extension |
-| **Focus**      | Malicious webpage detection                   |
-| **Accuracy**   | ~92%                                          |
-| **Security**   | Web threat detection                          |
-| **Repository** | [View Profile](https://github.com/PulaBhavya) |
-
-### Engineering Work
-
-* Applied machine learning to a web-security problem
-* Worked with features relevant to webpage classification
-* Developed a browser-oriented detection workflow
-* Focused on identifying potentially harmful webpages
-
-</details>
-
-<details>
-<summary><strong>03 · Detection of Ransomware Attacks</strong></summary>
-
-<br>
-
-A team-based cybersecurity project focused on ransomware behaviour and attack detection.
-
-| Metric         | Details                                       |
-| -------------- | --------------------------------------------- |
-| **Stack**      | Python · Cybersecurity                        |
-| **Role**       | Team Lead                                     |
-| **Focus**      | Ransomware detection                          |
-| **Security**   | Malware behaviour analysis                    |
-| **Repository** | [View Profile](https://github.com/PulaBhavya) |
+| Metric     | Details                |
+| ---------- | ---------------------- |
+| **Stack**  | Python · Cybersecurity |
+| **Role**   | Team Lead              |
+| **Focus**  | Ransomware Detection   |
+| **Domain** | Cybersecurity          |
 
 ### Engineering Work
 
@@ -170,37 +187,64 @@ A team-based cybersecurity project focused on ransomware behaviour and attack de
 * Analysed indicators of malicious activity
 * Applied cybersecurity concepts to attack detection
 
-</details>
+### Core Technologies
 
-<details>
-<summary><strong>04 · Python Mini Projects</strong></summary>
-
-<br>
-
-A collection of Python exercises and mini-projects focused on programming fundamentals and problem solving.
-
-| Metric         | Details                                                               |
-| -------------- | --------------------------------------------------------------------- |
-| **Stack**      | Python                                                                |
-| **Focus**      | Programming fundamentals                                              |
-| **Topics**     | Lists · Loops · Strings · Functions                                   |
-| **Repository** | [View Repository](https://github.com/PulaBhavya/Python-Mini-Projects) |
+`Python` `Cybersecurity` `Security Analysis`
 
 </details>
 
+---
+
+<div align="center">
+
+### `03` — PYTHON MINI PROJECTS
+
+**Python Programming & Problem Solving**
+
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-DC2626?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PulaBhavya/Python-Mini-Projects)
+
+</div>
+
 <details>
-<summary><strong>05 · Phishing Email Analysis</strong></summary>
+<summary><strong>▸ Explore Project</strong></summary>
 
 <br>
 
-A security-focused project involving analysis of phishing emails and identification of suspicious characteristics.
+A collection of Python exercises and mini-projects created to strengthen programming fundamentals and problem-solving ability.
 
-| Metric         | Details                                                                  |
-| -------------- | ------------------------------------------------------------------------ |
-| **Stack**      | Python · Cybersecurity                                                   |
-| **Focus**      | Phishing analysis                                                        |
-| **Security**   | Email threat analysis                                                    |
-| **Repository** | [View Repository](https://github.com/PulaBhavya/Phishing-Email-Analysis) |
+| Area         | Details                             |
+| ------------ | ----------------------------------- |
+| **Language** | Python                              |
+| **Focus**    | Programming Fundamentals            |
+| **Topics**   | Lists · Loops · Strings · Functions |
+| **Purpose**  | Python practice and problem solving |
+
+</details>
+
+---
+
+<div align="center">
+
+### `04` — PHISHING EMAIL ANALYSIS
+
+**Security-Focused Email Threat Analysis**
+
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-9F1239?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PulaBhavya/Phishing-Email-Analysis)
+
+</div>
+
+<details>
+<summary><strong>▸ Explore Project</strong></summary>
+
+<br>
+
+A security-focused project involving the analysis of phishing emails and identification of suspicious characteristics.
+
+| Area         | Details                |
+| ------------ | ---------------------- |
+| **Stack**    | Python · Cybersecurity |
+| **Focus**    | Phishing Analysis      |
+| **Security** | Email Threat Analysis  |
 
 </details>
 
@@ -218,6 +262,8 @@ A security-focused project involving analysis of phishing emails and identificat
 
 `Python` `Programming` `Problem Solving`
 
+---
+
 ### Cybersecurity Intern
 
 **Redynox**
@@ -228,29 +274,18 @@ A security-focused project involving analysis of phishing emails and identificat
 
 `Cybersecurity` `Security Analysis` `Python`
 
-### Python Intern
-
-**ShadowFox**
-
-* Worked on Python development tasks
-* Applied programming fundamentals to practical problems
-* Improved Python implementation and problem-solving skills
-
-`Python` `Programming`
-
 ---
 
 ## Achievements
 
 <div align="center">
 
-| Recognition                  | Details                                                         |
-| ---------------------------- | --------------------------------------------------------------- |
-| **Academic**                 | B.Tech CSE — **8.54 / 10 CGPA**                                 |
-| **Large-Scale ML**           | FraudShieldX built using **1.47M+ transaction records**         |
-| **ML Security**              | Malicious webpage detection with approximately **92% accuracy** |
-| **Leadership**               | Team Lead — Ransomware Detection Project                        |
-| **Professional Development** | Deloitte Australia Technology Job Simulation                    |
+|     | Recognition                  | Details                                           |
+| :-: | ---------------------------- | ------------------------------------------------- |
+|  ◈  | **Academic Performance**     | B.Tech CSE — **8.54 / 10 CGPA**                   |
+|  ◈  | **Large-Scale ML**           | FraudShieldX using **1.47M+ transaction records** |
+|  ◈  | **Project Leadership**       | Team Lead — Ransomware Detection Project          |
+|  ◈  | **Professional Development** | Deloitte Australia Technology Job Simulation      |
 
 </div>
 
@@ -260,15 +295,59 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Security%20Principles-DC2626?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20IIT%20Kharagpur-B91C1C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Red%20Hat-Cybersecurity-7F1D1D?style=for-the-badge&logo=redhat&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Forage-Deloitte%20Technology-DC2626?style=for-the-badge"/>
+**Verified Learning & Professional Development**
 
 </div>
+
+<details>
+<summary><strong>01 · Google Cloud — Introduction to Security Principles</strong></summary>
+
+<br>
+
+Completed Google Cloud training focused on foundational security principles and concepts.
+
+**[View Certificate →](https://drive.google.com/file/d/1p8B66osyPVr8dJhkQCl97qvmNHJiD5pa/view?usp=drivesdk)**
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>02 · Deloitte Australia — Technology Job Simulation</strong></summary>
+
+<br>
+
+Completed the Deloitte Australia Technology Job Simulation through Forage, involving practical technology and professional problem-solving scenarios.
+
+**[View Certificate →](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69a694b45d00df1eaea14ece_1772535756812_completion_certificate.pdf)**
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>03 · The Developers Arena — Python Internship</strong></summary>
+
+<br>
+
+Completed a Python development internship involving practical programming and application-development tasks.
+
+**[View Certificate →](https://drive.google.com/file/d/11Y2QcjhSgxRYr-He2waq79mY45WfBeOd/view?usp=drivesdk)**
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>04 · Future Interns — Internship</strong></summary>
+
+<br>
+
+Completed an internship focused on practical technology and development experience.
+
+**[View Certificate →](https://drive.google.com/file/d/1O2Kj8BXfSYcmUTx-UHa64yWdxRoH2pFx/view?usp=drivesdk)**
+
+</details>
 
 ---
 
@@ -276,23 +355,13 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=EF4444&icon_color=FB7185&text_color=E5E7EB"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=00000000&title_color=EF4444&icon_color=FB7185&text_color=E5E7EB" height="175"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=EF4444&text_color=E5E7EB"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=EF4444&text_color=E5E7EB" height="175"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=PulaBhavya&hide_border=true&background=00000000&ring=DC2626&fire=FB7185&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=9CA3AF" width="65%"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PulaBhavya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="https://streak-stats.demolab.com?user=PulaBhavya&hide_border=true&background=00000000&ring=EF4444&fire=FB7185&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=9CA3AF" width="65%"/>
 
 </div>
 
@@ -302,7 +371,7 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulaBhavya&bg_color=00000000&color=EF4444&line=DC2626&point=FB7185&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulaBhavya&bg_color=00000000&color=EF4444&line=DC2626&point=FB7185&area=true&hide_border=true&custom_title=Pula%20Bhavya%20%E2%80%94%20Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -312,7 +381,7 @@ A security-focused project involving analysis of phishing emails and identificat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PulaBhavya/PulaBhavya/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/PulaBhavya/PulaBhavya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -357,11 +426,11 @@ Open To:
 <div align="center">
 
 <a href="https://github.com/PulaBhavya">
-<img src="https://img.shields.io/badge/GitHub-PulaBhavya-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-PULA%20BHAVYA-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pulabhavya21/">
-<img src="https://img.shields.io/badge/LinkedIn-Pula%20Bhavya-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-EF4444?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -370,10 +439,12 @@ Open To:
 
 <div align="center">
 
+### `BUILD • LEARN • ENGINEER • SHIP`
+
 **Build with purpose. Engineer with discipline. Ship what matters.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:09090B&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,40:991B1B,75:450A0A,100:050505&height=120&section=footer" width="100%"/>
 
 </div>
