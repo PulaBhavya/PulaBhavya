@@ -438,13 +438,13 @@ Focused on building practical engineering skills through projects, internships a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=00000000&title_color=EF4444&icon_color=FB7185&text_color=E5E7EB" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=EF4444&text_color=E5E7EB" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&theme=transparent" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=PulaBhavya&hide_border=true&background=00000000&ring=EF4444&fire=FB7185&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=9CA3AF" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=PulaBhavya&hide_border=true&theme=transparent" width="65%"/>
 
 </div>
 
