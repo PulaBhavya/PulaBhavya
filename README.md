@@ -434,18 +434,6 @@ Focused on building practical engineering skills through projects, internships a
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PulaBhavya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&theme=transparent" width="48%"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
