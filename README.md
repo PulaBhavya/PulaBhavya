@@ -442,10 +442,6 @@ Focused on building practical engineering skills through projects, internships a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulaBhavya&layout=compact&hide_border=true&langs_count=6&theme=transparent" width="48%"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=PulaBhavya&hide_border=true&theme=transparent" width="65%"/>
-
 </div>
 
 ---
