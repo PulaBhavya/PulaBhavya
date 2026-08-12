@@ -173,25 +173,28 @@ FraudShieldX is an AI-powered Django application designed to identify potentiall
 
 <br>
 
-A team-based cybersecurity project focused on understanding ransomware behaviour and identifying indicators associated with ransomware attacks.
+A machine-learning-based security project designed to identify potentially malicious web pages in real time by analysing webpage characteristics and security-related indicators.
 
-| Metric     | Details                |
-| ---------- | ---------------------- |
-| **Stack**  | Python · Cybersecurity |
-| **Role**   | Team Lead              |
-| **Focus**  | Ransomware Detection   |
-| **Domain** | Cybersecurity          |
+| Metric     | Details                         |
+| ---------- | ------------------------------- |
+| **Stack**  | Python · Machine Learning       |
+| **Role**   | Developer                       |
+| **Focus**  | Malicious Web-Page Detection    |
+| **Accuracy** | 92%                           |
+| **Domain** | Cybersecurity · Web Security|
 
 ### Engineering Work
 
-* Led the project team
-* Studied ransomware attack behaviour
-* Analysed indicators of malicious activity
-* Applied cybersecurity concepts to attack detection
+- Developed a machine-learning approach for detecting malicious web pages
+- Analysed webpage characteristics and security-related features
+- Prepared and processed data for model training
+- Trained and evaluated a classification model
+- Achieved approximately **92% detection accuracy**
+- Focused on real-time identification of potentially malicious webpages
 
 ### Core Technologies
 
-`Python` `Cybersecurity` `Security Analysis`
+`Python` `Machine Learning` `Scikit-learn` `Pandas` `Cybersecurity` `Web Security`
 
 </details>
 
