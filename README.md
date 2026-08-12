@@ -162,9 +162,9 @@ FraudShieldX is an AI-powered Django application designed to identify potentiall
 
 <div align="center">
 
-### `02` — RANSOMWARE DETECTION
+### `02` — DETECTING MALICIOUS WEB PAGES
 
-**Detection of Ransomware Attacks**
+**Detecting Malicious Web Pages in Real-Time**
 
 </div>
 
