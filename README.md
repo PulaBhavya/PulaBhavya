@@ -162,39 +162,43 @@ FraudShieldX is an AI-powered Django application designed to identify potentiall
 
 <div align="center">
 
-### `02` — DETECTING MALICIOUS WEB PAGES
+"02" — DISTRIBUTED JOB PROCESSING PLATFORM
 
-**Detecting Malicious Web Pages in Real-Time**
+Distributed Job Processing & Monitoring Platform
 
-</div>
+<a href="https://github.com/PulaBhavya/Distributed-Job-Processing-Platform">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div><details>
+<summary><strong>▸ Explore Project</strong></summary><br>The Distributed Job Processing & Monitoring Platform is a backend system for submitting, processing, and monitoring background jobs asynchronously. It uses Django REST Framework for API development, Celery and Redis for distributed task processing, and MySQL for persistent job data and status tracking.
 
-<details>
-<summary><strong>▸ Explore Project</strong></summary>
+Metric| Details
+Stack| Python · Django · Django REST Framework · Celery · Redis
+Database| MySQL · Django ORM
+Processing| Celery Workers · Redis
+Features| Async Jobs · Priority Queues · Retries · Monitoring
+Domain| Distributed Job Processing & Monitoring
+Architecture| REST API + Task Queue + Workers + Database
 
-<br>
+Engineering Work
 
-A machine-learning-based security project designed to identify potentially malicious web pages in real time by analysing webpage characteristics and security-related indicators.
+* Designed and developed a REST API for submitting and managing background jobs
+* Implemented asynchronous job execution using Celery workers
+* Integrated Redis as a message broker for task distribution
+* Implemented priority-based job processing for different job workloads
+* Added automatic retry handling for failed background tasks
+* Implemented job failure handling and status tracking
+* Built database-backed job management using MySQL and Django ORM
+* Developed API serializers and Django REST Framework views
+* Implemented real-time job status monitoring
+* Built a web-based dashboard for monitoring submitted and processed jobs
+* Added worker monitoring functionality for background task execution
+* Containerized the application using Docker
+* Configured and tested the application using Django migrations and system checks
+* Structured the backend into separate components for API, task processing, workers, and persistence
 
-| Metric     | Details                         |
-| ---------- | ------------------------------- |
-| **Stack**  | Python · Machine Learning       |
-| **Role**   | Developer                       |
-| **Focus**  | Malicious Web-Page Detection    |
-| **Accuracy** | 92%                           |
-| **Domain** | Cybersecurity · Web Security|
+Core Technologies
 
-### Engineering Work
-
-- Developed a machine-learning approach for detecting malicious web pages
-- Analysed webpage characteristics and security-related features
-- Prepared and processed data for model training
-- Trained and evaluated a classification model
-- Achieved approximately **92% detection accuracy**
-- Focused on real-time identification of potentially malicious webpages
-
-### Core Technologies
-
-`Python` `Machine Learning` `Scikit-learn` `Pandas` `Cybersecurity` `Web Security`
+"Python" "Django" "Django REST Framework" "Celery" "Redis" "MySQL" "Docker" "REST API" "Django ORM" "Git" "GitHub"
 
 </details>
 
